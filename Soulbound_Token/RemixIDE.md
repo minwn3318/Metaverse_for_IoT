@@ -62,7 +62,7 @@ Method : 함수가 존재하지 않아 id로 표시됨 0x60806040
 Block : 4774037
 From : 0xe04fE4634d37f6842B4378dD2B0c713e484CD923 = 내 지갑
 out 타입으로 나옴
-To : contract cerdatial(컨트랙트, 계약서도 지갑처럼 주소가 존재)
+To : contract cerdatial(컨트랙트, 계약서도 지갑처럼 주소가 존재)0x8b24d35097e1250aF17FD8cA2c0612199Aa5b676
 Value : 0
 Txn Fee : 0.00026716
 gas price : 2.61285383 
