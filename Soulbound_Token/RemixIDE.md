@@ -39,8 +39,33 @@ logs :
 ```
 
 2. 내 메타마스크 연결해서 해당 컨트랙트 배포하기
+   * 배포내용 : helloWorld.sol
+```
+// SPDX-License-Identifier: MIT
+pragma solidity >= 0.7.0 < 0.9.0;
+
+contract HelloWorld {
+    string private  saying = "Hello World!";
+
+    // function GetHello() public view returns(string)
+    // {
+    //     return saying;
+    // }
+}
+```
+: 함수는 존재하지 않고 private 접근지정자인 스트링변수만 존재
    => 이더스캔 확인
+* 내용
+```
+Transaction Hash : 
+Method : 함수가 존재하지 않아 id로 표시됨
+Block :
+From : 0xe04fE4634d37f6842B4378dD2B0c713e484CD923 내 내용
+To : created contract
+Value : 0
+Txn Fee : 
+```
+--- 사진첨부  --- >> 
 
---- 사진첨부  ---
-888   
-
+* 알게 된 점 :
+  1. to
