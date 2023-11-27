@@ -57,13 +57,14 @@ contract HelloWorld {
    => 이더스캔 확인
 * 내용
 ```
-Transaction Hash : 
-Method : 함수가 존재하지 않아 id로 표시됨
-Block :
-From : 0xe04fE4634d37f6842B4378dD2B0c713e484CD923 내 내용
+Transaction Hash : 0x27e87e46a319362425bfd79e76a968ea16c13320252b8cd05440faa0514d6a9d 
+Method : 함수가 존재하지 않아 id로 표시됨 0x60806040
+Block : 4774037
+From : 0xe04fE4634d37f6842B4378dD2B0c713e484CD923 = 내 지갑
 To : created contract
 Value : 0
-Txn Fee : 
+Txn Fee : 0.00026716
+gas price : 2.61285383 
 ```
 --- 사진첨부  --- >> 
 
